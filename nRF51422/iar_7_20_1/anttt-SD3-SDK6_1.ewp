@@ -1900,16 +1900,13 @@
         <name>$PROJ_DIR$\..\bsp\ant_integration.h</name>
       </file>
       <file>
-        <name>$PROJ_DIR$\..\bsp\anttt-ehdw-04.h</name>
+        <name>$PROJ_DIR$\..\bsp\anttt-eief1-01.h</name>
       </file>
       <file>
         <name>$PROJ_DIR$\..\bsp\ble_integration.h</name>
       </file>
       <file>
         <name>$PROJ_DIR$\..\bsp\bleperipheral.h</name>
-      </file>
-      <file>
-        <name>$PROJ_DIR$\..\bsp\buttons.h</name>
       </file>
       <file>
         <name>$PROJ_DIR$\..\bsp\configuration.h</name>
@@ -1933,16 +1930,13 @@
         <name>$PROJ_DIR$\..\bsp\ant_integration.c</name>
       </file>
       <file>
-        <name>$PROJ_DIR$\..\bsp\anttt-ehdw-04.c</name>
+        <name>$PROJ_DIR$\..\bsp\anttt-eief1-01.c</name>
       </file>
       <file>
         <name>$PROJ_DIR$\..\bsp\ble_integration.c</name>
       </file>
       <file>
         <name>$PROJ_DIR$\..\bsp\bleperipheral.c</name>
-      </file>
-      <file>
-        <name>$PROJ_DIR$\..\bsp\buttons.c</name>
       </file>
       <file>
         <name>$PROJ_DIR$\..\bsp\interrupts.c</name>
@@ -2027,6 +2021,9 @@
       </file>
       <file>
         <name>$PROJ_DIR$\..\nordic_sdk6_1_0\iar_startup_nrf51.s</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\nordic_sdk6_1_0\spi_master.c</name>
       </file>
       <file>
         <name>$PROJ_DIR$\..\nordic_sdk6_1_0\system_nrf51422.c</name>
