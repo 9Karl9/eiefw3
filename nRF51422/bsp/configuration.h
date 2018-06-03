@@ -73,7 +73,7 @@ Includes
 #include "main.h"
 #include "typedefs.h"
 #include "utilities.h"
-
+#include "SPI_Master.h"
 #include "anttt-eief1-01.h"
 
 /* Driver header files */

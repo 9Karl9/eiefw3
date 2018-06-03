@@ -12,7 +12,7 @@
           
           
           
-        <Column0>212</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+        <Column0>203</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
       </Workspace>
       <Build>
         
@@ -21,11 +21,11 @@
         
       <ColumnWidth0>26</ColumnWidth0><ColumnWidth1>829</ColumnWidth1><ColumnWidth2>221</ColumnWidth2><ColumnWidth3>55</ColumnWidth3></Build>
       <TerminalIO/>
-    </Static>
+    <Find-All-References><ColumnWidth0>470</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Find-All-References><Debug-Log><ColumnWidth0>22</ColumnWidth0><ColumnWidth1>1305</ColumnWidth1></Debug-Log><Select-Ambiguous-Definitions><ColumnWidth0>470</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Select-Ambiguous-Definitions><Find-in-Files><ColumnWidth0>403</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>604</ColumnWidth2><ColumnWidth3>268</ColumnWidth3></Find-in-Files></Static>
     <Windows>
       
       
-    <Wnd2>
+    <Wnd1>
         <Tabs>
           <Tab>
             <Identity>TabID-5485-23732</Identity>
@@ -33,11 +33,11 @@
             <Factory>Workspace</Factory>
             <Session>
               
-            <NodeDict><ExpandedNode>anttt-SD3-SDK6_1</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/Application</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/Application/Include</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/Application/Source</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/_BSP</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/_BSP/Include</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/_BSP/Source</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/_Nordic_SDK_6_1_0</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/_Nordic_SDK_6_1_0/Include</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/_Nordic_SDK_6_1_0/Source</ExpandedNode></NodeDict></Session>
+            <NodeDict><ExpandedNode>anttt-SD3-SDK6_1</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/Application</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/Application/Include</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/Application/Source</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/Output</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/_BSP</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/_BSP/Include</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/_BSP/Source</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/_Nordic_SDK_6_1_0</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/_Nordic_SDK_6_1_0/Include</ExpandedNode><ExpandedNode>anttt-SD3-SDK6_1/_Nordic_SDK_6_1_0/Source</ExpandedNode></NodeDict></Session>
           </Tab>
         </Tabs>
         
-      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd3>
         <Tabs>
           <Tab>
             <Identity>TabID-28530-26985</Identity>
@@ -45,7 +45,7 @@
             <Factory>Build</Factory>
             <Session/>
           </Tab>
-        </Tabs>
+        <Tab><Identity>TabID-27306-31113</Identity><TabName>References</TabName><Factory>Find-All-References</Factory><Session/></Tab><Tab><Identity>TabID-1710-667</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-26817-16668</Identity><TabName>Ambiguous Definitions</TabName><Factory>Select-Ambiguous-Definitions</Factory><Session/></Tab><Tab><Identity>TabID-20350-23670</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
         
       <SelectedTab>0</SelectedTab></Wnd3></Windows>
     <Editor>
@@ -53,14 +53,14 @@
       
       
       
-    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\application\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>32</YPos2><SelStart2>2689</SelStart2><SelEnd2>2689</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\bsp\anttt-eief1-01.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>64</YPos2><SelStart2>4193</SelStart2><SelEnd2>4193</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\bsp\anttt-eief1-01.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>155</YPos2><SelStart2>7143</SelStart2><SelEnd2>7166</SelEnd2></Tab><ActiveTab>2</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\nordic_sdk6_1_0\Include\nrf51_bitfields.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>2684</YPos2><SelStart2>151575</SelStart2><SelEnd2>151575</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\nordic_sdk6_1_0\Include\nrf51.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1106</YPos2><SelStart2>82360</SelStart2><SelEnd2>82360</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\bsp\configuration.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>60</YPos2><SelStart2>2461</SelStart2><SelEnd2>2461</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\application\SPI_Master.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>63</YPos2><SelStart2>5535</SelStart2><SelEnd2>5535</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\application\bleperipheral_engenuics.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>75</YPos2><SelStart2>2636</SelStart2><SelEnd2>2655</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\application\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>33</YPos2><SelStart2>2689</SelStart2><SelEnd2>2689</SelEnd2></Tab><ActiveTab>3</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\application\bleperipheral_engenuics.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>344</YPos2><SelStart2>13733</SelStart2><SelEnd2>13733</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\application\SPI_Master.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>144</YPos2><SelStart2>6373</SelStart2><SelEnd2>6373</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\nordic_sdk6_1_0\Include\nrf51_bitfields.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>5908</YPos2><SelStart2>337126</SelStart2><SelEnd2>337126</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\bsp\anttt-eief1-01.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>209</YPos2><SelStart2>7716</SelStart2><SelEnd2>7716</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
     <Positions>
       
       
       
       
       
-    <Top><Row0><Sizes><Toolbar-0116F388><key>iaridepm.enu1</key></Toolbar-0116F388></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>497</Bottom><Right>303</Right><x>-2</x><y>-2</y><xscreen>258</xscreen><yscreen>146</yscreen><sizeHorzCX>188873</sizeHorzCX><sizeHorzCY>212828</sizeHorzCY><sizeVertCX>223280</sizeVertCX><sizeVertCY>727405</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>144</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>146</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>212828</sizeHorzCY><sizeVertCX>188873</sizeVertCX><sizeVertCY>212828</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+    <Top><Row0><Sizes><Toolbar-0119F390><key>iaridepm.enu1</key></Toolbar-0119F390></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>497</Bottom><Right>294</Right><x>-2</x><y>-2</y><xscreen>258</xscreen><yscreen>146</yscreen><sizeHorzCX>188873</sizeHorzCX><sizeHorzCY>212828</sizeHorzCY><sizeVertCX>216691</sizeVertCX><sizeVertCY>727405</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>144</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>146</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>212828</sizeHorzCY><sizeVertCX>188873</sizeVertCX><sizeVertCY>212828</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
   </Desktop>
 </Workspace>
 

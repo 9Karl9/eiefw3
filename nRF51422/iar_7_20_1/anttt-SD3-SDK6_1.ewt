@@ -301,9 +301,6 @@
         <name>$PROJ_DIR$\..\nordic_sdk6_1_0\iar_startup_nrf51.s</name>
       </file>
       <file>
-        <name>$PROJ_DIR$\..\nordic_sdk6_1_0\spi_master.c</name>
-      </file>
-      <file>
         <name>$PROJ_DIR$\..\nordic_sdk6_1_0\system_nrf51422.c</name>
       </file>
     </group>
@@ -322,6 +319,9 @@
         <name>$PROJ_DIR$\..\application\main.h</name>
       </file>
       <file>
+        <name>$PROJ_DIR$\..\application\SPI_Master.h</name>
+      </file>
+      <file>
         <name>$PROJ_DIR$\..\application\typedefs.h</name>
       </file>
     </group>
@@ -335,6 +335,9 @@
       </file>
       <file>
         <name>$PROJ_DIR$\..\application\main.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\application\SPI_Master.c</name>
       </file>
     </group>
   </group>

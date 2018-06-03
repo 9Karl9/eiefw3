@@ -333,8 +333,44 @@ Promises:
 */
 static void CallbackBleperipheralEngenuicsDataRx(u8* u8Data_, u8 u8Length_)
 {
-  // Forward handling to ANTTT module.
-  
+	static	u8 u8Number = 0;
+	
+	u8Number = *u8Data_;
+	
+	switch( u8Number )
+	{
+		case 1:
+			NRF_SPI0->TXD = 0x11;
+			break;
+		case 2:
+			NRF_SPI0->TXD = 0x12;
+			break;
+		case 3:
+			NRF_SPI0->TXD = 0x13;
+			break;
+		case 4:
+			NRF_SPI0->TXD = 0x21;
+			break;
+		case 5:
+			NRF_SPI0->TXD = 0x22;
+			break;
+		case 6:
+			NRF_SPI0->TXD = 0x23;
+			break;
+		case 7:
+			NRF_SPI0->TXD = 0x31;
+			break;
+		case 8:
+			NRF_SPI0->TXD = 0x32;
+			break;
+		case 9:
+			NRF_SPI0->TXD = 0x33;
+			break;
+		default:
+			NRF_SPI0->TXD = 0x99;
+			break;
+	}
+
 }
 
 /*--------------------------------------------------------------------------------------------------------------------*/

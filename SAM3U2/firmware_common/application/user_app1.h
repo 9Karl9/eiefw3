@@ -30,7 +30,11 @@ Function Declarations
 /*------------------------------------------------------------------------------------------------------------------*/
 /*! @publicsection */                                                                                            
 /*--------------------------------------------------------------------------------------------------------------------*/
-
+void SlaveRxCallback(void);
+void SlaveTxCallback(void);
+void DebugPrintGameIF(void);
+void DebugWins(void);
+void BleWins(void);
 
 /*------------------------------------------------------------------------------------------------------------------*/
 /*! @protectedsection */                                                                                            
@@ -47,9 +51,10 @@ void UserApp1RunActiveState(void);
 /***********************************************************************************************************************
 State Machine Declarations
 ***********************************************************************************************************************/
-static void UserApp1SM_Idle(void);    
-static void UserApp1SM_Error(void);         
-
+static void UserApp1SM_Idle(void);   
+static void UserApp1SM_Slave(void);
+static void UserApp1SM_StartAgain(void);         
+static void UserApp1SM_Error(void);
 
 
 /**********************************************************************************************************************

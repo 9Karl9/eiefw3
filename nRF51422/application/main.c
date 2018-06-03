@@ -75,6 +75,7 @@ void main(void)
   ANTIntegrationInitialize();
   BLEIntegrationInitialize();
   bleperipheralInitialize();
+	SPI_Master_Initialize();
   
   /* Application initialization */
   AntttInitialize();
@@ -87,7 +88,8 @@ void main(void)
   {
     SocIntegrationHandler();
     AntttRunActiveState();
-   
+   	SPI_Master_RunActiveState();
+		
     /* System sleep*/
     SystemSleep();
     

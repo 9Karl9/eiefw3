@@ -69,20 +69,20 @@
       <Register/>
       <WATCH_1>
         <expressions>
-          <item/>
-        </expressions>
+          
+        <item/></expressions>
         <col-names>
-          <item>Expression</item>
-          <item>Location</item>
-          <item>Type</item>
-          <item>Value</item>
-        </col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
         <col-widths>
-          <item>100</item>
-          <item>150</item>
-          <item>100</item>
-          <item>100</item>
-        </col-widths>
+          
+          
+          
+          
+        <item>100</item><item>150</item><item>100</item><item>100</item></col-widths>
       </WATCH_1>
       <WATCH_2>
         <expressions>
@@ -103,37 +103,37 @@
       </WATCH_2>
       <WATCH_3>
         <expressions>
-          <item/>
-        </expressions>
+          
+        <item>u16Time</item><item>u8Data_</item><item>u8Length_</item><item>u8Number</item><item></item></expressions>
         <col-names>
-          <item>Expression</item>
-          <item>Location</item>
-          <item>Type</item>
-          <item>Value</item>
-        </col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
         <col-widths>
-          <item>100</item>
-          <item>150</item>
-          <item>100</item>
-          <item>100</item>
-        </col-widths>
+          
+          
+          
+          
+        <item>100</item><item>150</item><item>100</item><item>100</item></col-widths>
       </WATCH_3>
       <WATCH_4>
         <expressions>
-          <item/>
-        </expressions>
+          
+        <item/></expressions>
         <col-names>
-          <item>Expression</item>
-          <item>Location</item>
-          <item>Type</item>
-          <item>Value</item>
-        </col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
         <col-widths>
-          <item>100</item>
-          <item>150</item>
-          <item>100</item>
-          <item>100</item>
-        </col-widths>
+          
+          
+          
+          
+        <item>100</item><item>150</item><item>100</item><item>100</item></col-widths>
       </WATCH_4>
       <Locals>
         <col-names>
@@ -265,7 +265,7 @@
               
               
               
-            <REG1>0</REG1><REG2>0</REG2><Group>0</Group><States>0</States></Session>
+            <REG1>0</REG1><REG2>0</REG2><Group>15</Group><States>1</States><State0>SPI0__CONFIG</State0></Session>
           </Tab>
           <Tab>
             <Identity>TabID-18786-28396</Identity>
@@ -301,7 +301,7 @@
               
               
               
-            <REG1>0</REG1><REG2>0</REG2><Group>0</Group><States>0</States></Session>
+            <REG1>0</REG1><REG2>0</REG2><Group>41</Group><States>0</States></Session>
           </Tab>
           <Tab>
             <Identity>TabID-28489-28418</Identity>
@@ -320,20 +320,20 @@
           </Tab>
         </Tabs>
         
-      <SelectedTab>0</SelectedTab></Wnd9></Windows>
+      <SelectedTab>1</SelectedTab></Wnd9></Windows>
     <Editor>
       
       
       
       
-    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\application\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>32</YPos2><SelStart2>2689</SelStart2><SelEnd2>2689</SelEnd2></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\bsp\anttt-eief1-01.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>64</YPos2><SelStart2>4193</SelStart2><SelEnd2>4193</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\bsp\anttt-eief1-01.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>161</YPos2><SelStart2>8636</SelStart2><SelEnd2>8636</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\nordic_sdk6_1_0\Include\nrf51_bitfields.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>2648</YPos2><SelStart2>151575</SelStart2><SelEnd2>151575</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\nordic_sdk6_1_0\Include\nrf51.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1106</YPos2><SelStart2>82360</SelStart2><SelEnd2>82360</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\bsp\configuration.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>60</YPos2><SelStart2>2461</SelStart2><SelEnd2>2461</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\application\SPI_Master.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>63</YPos2><SelStart2>5535</SelStart2><SelEnd2>5535</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\application\bleperipheral_engenuics.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>75</YPos2><SelStart2>2636</SelStart2><SelEnd2>2655</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\application\bleperipheral_engenuics.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>251</YPos2><SelStart2>3677</SelStart2><SelEnd2>3677</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\application\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>33</YPos2><SelStart2>2689</SelStart2><SelEnd2>2689</SelEnd2></Tab><ActiveTab>4</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\application\SPI_Master.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>144</YPos2><SelStart2>6373</SelStart2><SelEnd2>6373</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\nordic_sdk6_1_0\Include\nrf51_bitfields.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>5908</YPos2><SelStart2>337126</SelStart2><SelEnd2>337126</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\bsp\anttt-eief1-01.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>209</YPos2><SelStart2>7716</SelStart2><SelEnd2>7716</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
     <Positions>
       
       
       
       
       
-    <Top><Row0><Sizes><Toolbar-0299F388><key>iaridepm.enu1</key></Toolbar-0299F388><Toolbar-099E9F80><key>debuggergui.enu1</key></Toolbar-099E9F80></Sizes></Row0><Row1><Sizes><Toolbar-099E9C60><key>armjlink.enu1</key></Toolbar-099E9C60></Sizes></Row1></Top><Left><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>478</Bottom><Right>234</Right><x>-2</x><y>-2</y><xscreen>142</xscreen><yscreen>141</yscreen><sizeHorzCX>103953</sizeHorzCX><sizeHorzCY>205539</sizeHorzCY><sizeVertCX>172767</sizeVertCX><sizeVertCY>699708</sizeVertCY></Rect></Wnd5></Sizes></Row0></Left><Right><Row0><Sizes><Wnd8><Rect><Top>-2</Top><Left>-2</Left><Bottom>254</Bottom><Right>283</Right><x>-2</x><y>-2</y><xscreen>142</xscreen><yscreen>141</yscreen><sizeHorzCX>103953</sizeHorzCX><sizeHorzCY>205539</sizeHorzCY><sizeVertCX>208638</sizeVertCX><sizeVertCY>373178</sizeVertCY></Rect></Wnd8><Wnd9><Rect><Top>0</Top><Left>0</Left><Bottom>0</Bottom><Right>7</Right><x>-2</x><y>252</y><xscreen>142</xscreen><yscreen>141</yscreen><sizeHorzCX>103953</sizeHorzCX><sizeHorzCY>205539</sizeHorzCY><sizeVertCX>208638</sizeVertCX><sizeVertCY>329446</sizeVertCY></Rect></Wnd9></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>139</Bottom><Right>684</Right><x>-2</x><y>-2</y><xscreen>686</xscreen><yscreen>141</yscreen><sizeHorzCX>502196</sizeHorzCX><sizeHorzCY>205539</sizeHorzCY><sizeVertCX>103953</sizeVertCX><sizeVertCY>205539</sizeVertCY></Rect></Wnd3><Wnd7><Rect><Top>0</Top><Left>0</Left><Bottom>0</Bottom><Right>0</Right><x>682</x><y>-2</y><xscreen>686</xscreen><yscreen>141</yscreen><sizeHorzCX>502196</sizeHorzCX><sizeHorzCY>205539</sizeHorzCY><sizeVertCX>103953</sizeVertCX><sizeVertCY>205539</sizeVertCY></Rect></Wnd7></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+    <Top><Row0><Sizes><Toolbar-02ABF390><key>iaridepm.enu1</key></Toolbar-02ABF390><Toolbar-112B4720><key>debuggergui.enu1</key></Toolbar-112B4720></Sizes></Row0><Row1><Sizes><Toolbar-112B4400><key>armjlink.enu1</key></Toolbar-112B4400></Sizes></Row1></Top><Left><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>454</Bottom><Right>234</Right><x>-2</x><y>-2</y><xscreen>142</xscreen><yscreen>141</yscreen><sizeHorzCX>103953</sizeHorzCX><sizeHorzCY>205539</sizeHorzCY><sizeVertCX>172767</sizeVertCX><sizeVertCY>664723</sizeVertCY></Rect></Wnd5></Sizes></Row0></Left><Right><Row0><Sizes><Wnd8><Rect><Top>-2</Top><Left>-2</Left><Bottom>242</Bottom><Right>531</Right><x>-2</x><y>-2</y><xscreen>142</xscreen><yscreen>141</yscreen><sizeHorzCX>103953</sizeHorzCX><sizeHorzCY>205539</sizeHorzCY><sizeVertCX>390190</sizeVertCX><sizeVertCY>355685</sizeVertCY></Rect></Wnd8><Wnd9><Rect><Top>0</Top><Left>0</Left><Bottom>0</Bottom><Right>7</Right><x>-2</x><y>240</y><xscreen>142</xscreen><yscreen>141</yscreen><sizeHorzCX>103953</sizeHorzCX><sizeHorzCY>205539</sizeHorzCY><sizeVertCX>390190</sizeVertCX><sizeVertCY>311953</sizeVertCY></Rect></Wnd9></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>163</Bottom><Right>684</Right><x>-2</x><y>-2</y><xscreen>686</xscreen><yscreen>165</yscreen><sizeHorzCX>502196</sizeHorzCX><sizeHorzCY>240525</sizeHorzCY><sizeVertCX>103953</sizeVertCX><sizeVertCY>205539</sizeVertCY></Rect></Wnd3><Wnd7><Rect><Top>0</Top><Left>0</Left><Bottom>103812104</Bottom><Right>1997802765</Right><x>682</x><y>-2</y><xscreen>686</xscreen><yscreen>165</yscreen><sizeHorzCX>502196</sizeHorzCX><sizeHorzCY>240525</sizeHorzCY><sizeVertCX>103953</sizeVertCX><sizeVertCY>205539</sizeVertCY></Rect></Wnd7></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
   </Desktop>
 </Project>
 
